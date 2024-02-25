@@ -8,7 +8,7 @@ class DemoApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("Running spring boot check");
+        System.out.println("Running spring boot checks");
     }
 
 }
